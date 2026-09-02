@@ -136,7 +136,7 @@ button:hover{
         <span style="font-size:16px; color:orange;">Verification</span>
     </div>
 
-    <img class="thumbnail" src="New Project (6).PNG" alt="jawbreaker">
+    <img class="thumbnail" src="New Project (6).png" alt="jawbreaker">
 
     <button onclick="showVictors('jawbreaker')">Victors</button>
 </div>
@@ -201,7 +201,7 @@ button:hover{
         <span style="font-size:16px; color:orange;">Verification</span>
     </div>
 
-    <img class="thumbnail" src="Slaughter_Wave.PNG" alt="SlaughterWave">
+    <img class="thumbnail" src="Slaughter_Wave.png" alt="SlaughterWave">
 
     <button onclick="showVictors('slaughterwave')">Victors</button>
 </div>
